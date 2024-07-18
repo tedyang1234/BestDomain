@@ -62,6 +62,8 @@ if __name__ == "__main__":
     subdomain_ip_mapping = {
         'bestcf': 'https://ipdb.030101.xyz/api/bestcf.txt',
         'bp': 'https://ipdb.030101.xyz/api/bestproxy.txt',
+        'ct': 'https://addressesapi.090227.xyz/ct',
+        'cmcc': 'https://addressesapi.090227.xyz/cmcc',
         # 添加更多子域名和对应的IP列表URL
     }
     
