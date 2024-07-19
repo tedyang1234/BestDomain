@@ -62,7 +62,7 @@ if __name__ == "__main__":
     subdomain_ip_mapping = {
         'bestcf': 'https://ipdb.030101.xyz/api/bestcf.txt',
         'bp': 'https://ipdb.030101.xyz/api/bestproxy.txt',
-        'cf': 'https://ip.164746.xyz/ipTop.html',
+        'cf': 'https://raw.githubusercontent.com/tedyang1234/cfipcaiji/main/ip.txt',
         # 添加更多子域名和对应的IP列表URL
     }
     
